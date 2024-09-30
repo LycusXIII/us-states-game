@@ -25,7 +25,7 @@ This Python project is a fun and educational way to learn the locations of all 5
 ### **Project Structure**
 
 * **`main.py`:** Main game loop, handles user interaction, state tracking, and manages the `Display` object.
-* **`states.py`:** Defines the **`Display object`** class which utilizes the `turtle` library to create the map and show state names upon correct guesses.
+* **`states.py`:** Defines the `Display object` class which utilizes the `turtle` library to create the map and show state names upon correct guesses.
 
 
 ### **Dependencies**
